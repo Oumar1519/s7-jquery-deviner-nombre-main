@@ -1,0 +1,29 @@
+.nombre {
+    width: 50px;
+    padding : 2px;
+    padding-bottom: 3em;
+    width: 2em;
+    padding: 1em;
+    border: 1px solid black;
+    margin: auto;
+    vertical-align: center;
+    margin: 0.5em;
+    text-align: center;
+    display: inline-block;
+}
+.cache {
+    visibility: hidden;
+    display: none;
+}
+
+.nombres {
+    max-width: 55em;
+}
+.erreur {
+    color: red;
+    border: 1px solid red;
+}
+.succes {
+    color: #009527;
+    background-color : #a9e9aa;
+}
