@@ -7,6 +7,7 @@ let nombreEssaisMax=10;
 let nombreEssaisRestants=nombreEssaisMax;
 let nombreTrouve=false;
 let nombreATrouver=nombreAleatoire;
+
 while (rejouer==true) {
     while (nombreEssais<nombreEssaisMax && nombreTrouve==false) {
         //nombreSaisi=prompt("Saisissez un nombre entre 0 et 100");
